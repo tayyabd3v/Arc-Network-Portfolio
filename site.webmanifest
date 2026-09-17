@@ -1,0 +1,17 @@
+{
+  "name": "Arc Network | Digital Tools by Tayyab",
+  "short_name": "Arc Network",
+  "description": "A growing collection of useful digital tools and web experiences built by Tayyab.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#101827",
+  "theme_color": "#101827",
+  "icons": [
+    {
+      "src": "Assets/arc-mark.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}

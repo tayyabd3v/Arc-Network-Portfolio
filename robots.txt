@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://arc-network.vercel.app/Arc%20Portfolio/sitemap.xml
